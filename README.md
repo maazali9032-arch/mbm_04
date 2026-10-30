@@ -14,7 +14,7 @@ npm run dev
 
 Open `http://localhost:5182`. To try it on a phone on the same Wi-Fi, open the "Network" address Vite prints.
 
-Photos are **read in place** from `../MBM_03/public` (see `vite.config.ts`). Nothing there is copied, moved or edited.
+Photos are in `public/images` and `public/test_images`, copied from the storefront project (the originals were left as they were). The project is fully self-contained.
 
 ## What to try
 

@@ -170,7 +170,7 @@ Each one is a **physical object or ritual from a Hyderabadi wedding**, not a gen
 
 ## 9. What the prototype uses
 
-- Photos are read in place from `MBM_03/public` (configured as this project's public folder). Nothing is copied, moved or edited.
+- Photos are copied into this project's `public/` folder from the storefront project. The originals were not changed.
 - The catalogue is sample data shaped like the ERP's (category, ceremony, sizes, colours, price, MAHIB flag), ready to be swapped for the live catalogue.
 - To confirm with the shop: hours, delivery times, worldwide countries, exchange policy, official logo files and real product photos per colour.
 
