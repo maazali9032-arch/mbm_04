@@ -1,0 +1,16 @@
+{
+  "name": "maqdooms-grooms-house",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Maqdoom's - The Groom's House. Local website design prototype.",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3",
+    "vite": "7.1.12"
+  }
+}
